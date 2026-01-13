@@ -1,7 +1,5 @@
-path: C:\Clases\Proy_semestre5\Proyecto\AI-Inventory-System\dataset
-
-train: images/train
-val: images/val
+train: ../images/train
+val: ../images/val
 
 names:
   0: objeto
